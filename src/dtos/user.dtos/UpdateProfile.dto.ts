@@ -9,6 +9,7 @@ export class UpdateProfileDto{
     @ApiProperty({example:"sqwsqwws"})
     @IsString()
     profile_pic : string
-
+ 
+    
     
 }
